@@ -6348,6 +6348,9 @@ video {
             margin-bottom: 30px;
             position: relative;
             .icon-bg{
+                circle{
+                    display: none;
+                }
                 position: absolute;
                 left: -30px;
                 top: -30px;
@@ -6387,7 +6390,7 @@ video {
 
         }
         &:hover{
-            border: 1px solid rgba(117, 218, 180, 0.5);
+            border: 1px solid rgba(255, 78, 23, 0.5);
         }
     }
 }

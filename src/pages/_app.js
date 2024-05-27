@@ -26,7 +26,7 @@ export default function App({ Component, pageProps }) {
   }, []);
   return (
     <>
-      {loading ? (
+      {true ? (
         <>
           <Component {...pageProps} />
           <Script id="wow" src="/js/wow.min.js"></Script>
