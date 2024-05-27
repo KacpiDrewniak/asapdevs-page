@@ -4756,7 +4756,6 @@ video {
 
 .home3-solution-section{
     .solution-card{
-        background-image: url(../img/home-3/pricing-bg-32.png), linear-gradient(#1E1E1E, #1E1E1E);
         background-size: cover;
         background-repeat: no-repeat;
         padding: 30px;
@@ -4823,7 +4822,6 @@ video {
             }
         }
         &:hover{
-            background-image: url(../img/home-3/pricing-bg-32.png), linear-gradient(rgba(117, 218, 180, 0.1), rgba(117, 218, 180, 0.1));
         }
     }
 }
@@ -5555,7 +5553,6 @@ video {
             }
         }
         &.two{
-            background-image: url(../img/home-3/pricing-bg-32.png), linear-gradient(#06D889, #06D889);
             .pricing-top{
                 span{
                     color: var(--black-color2);
@@ -8775,7 +8772,6 @@ footer{
 // Inner Pages
 .breadcrumbs {
     position: relative;
-    background-image: url(../img/inner-pages/inner-page-bg.png), linear-gradient(#1d1d1d, #1d1d1d);
     background-size: cover;
     background-repeat: no-repeat;
     z-index: 1;
@@ -10336,7 +10332,7 @@ footer{
             transition: 0.5s;
             &:hover{
                 color: var(--theme-color);
-                border: 1px solid rgba(6, 216, 137, 0.1);
+                border: 1px solid rgba(255, 78, 23, 0.1);
             }
         }
     }

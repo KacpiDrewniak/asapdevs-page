@@ -368,8 +368,8 @@ function Preloader() {
     })();
   
   particleground(document.getElementById("particles-foreground"), {
-    dotColor: "rgba(6, 216, 137, 1)",
-    lineColor: "rgba(6, 216, 137, 0.1)",
+    dotColor: "rgba(255, 78, 23, 1)",
+    lineColor: "rgba(255, 78, 23, 0.1)",
     minSpeedX: 0.3,
     maxSpeedX: 0.6,
     minSpeedY: 0.3,
@@ -382,8 +382,8 @@ function Preloader() {
   });
   
   particleground(document.getElementById("particles-background"), {
-    dotColor: "rgba(6, 216, 137, 0.5)",
-    lineColor: "rgba(6, 216, 137, 0.1)",
+    dotColor: "rgba(255, 78, 23, 0.5)",
+    lineColor: "rgba(255, 78, 23, 0.1)",
     minSpeedX: 0.075,
     maxSpeedX: 0.15,
     minSpeedY: 0.075,
