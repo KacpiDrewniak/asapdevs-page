@@ -9,7 +9,7 @@ function BlogStandardPage() {
     <Layout>
       <Breadcrumb
         pageList="Blog Standard"
-        title="Exploring The Softconic Blog"
+        title="Exploring The asapdevs Blog"
         pageName="BLOG STANDARD"
       />
       <BlogBanner />
@@ -40,7 +40,7 @@ function BlogStandardPage() {
                       <ul className="blog-meta">
                         <li>
                           <Link legacyBehavior href="/blog-standard">
-                            <a>May 20, 2023</a>
+                            <a>May 20, 2024</a>
                           </Link>
                         </li>
                         <li>
@@ -132,7 +132,7 @@ function BlogStandardPage() {
                       <ul className="blog-meta">
                         <li>
                           <Link legacyBehavior href="/blog-standard">
-                            <a>May 20, 2023</a>
+                            <a>May 20, 2024</a>
                           </Link>
                         </li>
                         <li>
@@ -224,7 +224,7 @@ function BlogStandardPage() {
                       <ul className="blog-meta">
                         <li>
                           <Link legacyBehavior href="/blog-standard">
-                            <a>May 20, 2023</a>
+                            <a>May 20, 2024</a>
                           </Link>
                         </li>
                         <li>
@@ -316,7 +316,7 @@ function BlogStandardPage() {
                       <ul className="blog-meta">
                         <li>
                           <Link legacyBehavior href="/blog-standard">
-                            <a>May 20, 2023</a>
+                            <a>May 20, 2024</a>
                           </Link>
                         </li>
                         <li>
@@ -510,7 +510,7 @@ function BlogStandardPage() {
                           </Link>
                         </h6>
                         <Link legacyBehavior href="/blog">
-                          <a>May 18, 2023</a>
+                          <a>May 18, 2024</a>
                         </Link>
                       </div>
                     </div>
@@ -532,7 +532,7 @@ function BlogStandardPage() {
                           </Link>
                         </h6>
                         <Link legacyBehavior href="/blog">
-                          <a>May 15, 2023</a>
+                          <a>May 15, 2024</a>
                         </Link>
                       </div>
                     </div>
@@ -554,7 +554,7 @@ function BlogStandardPage() {
                           </Link>
                         </h6>
                         <Link legacyBehavior href="/blog">
-                          <a>May 14, 2023</a>
+                          <a>May 14, 2024</a>
                         </Link>
                       </div>
                     </div>

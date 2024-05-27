@@ -9,7 +9,7 @@ function BlogMasonaryPage() {
     <Layout>
       <Breadcrumb
         pageList="BLOG MASONARY"
-        title="Exploring The Softconic Blog"
+        title="Exploring The asapdevs Blog"
         pageName="Blog Masonary"
       />
       <BlogBanner />
@@ -38,7 +38,7 @@ function BlogMasonaryPage() {
                   <ul className="blog-meta">
                     <li>
                       <Link legacyBehavior href="/blog">
-                        <a>May 20, 2023</a>
+                        <a>May 20, 2024</a>
                       </Link>
                     </li>
                     <li>
@@ -122,7 +122,7 @@ function BlogMasonaryPage() {
                   <ul className="blog-meta">
                     <li>
                       <Link legacyBehavior href="/blog">
-                        <a>May 20, 2023</a>
+                        <a>May 20, 2024</a>
                       </Link>
                     </li>
                     <li>
@@ -206,7 +206,7 @@ function BlogMasonaryPage() {
                   <ul className="blog-meta">
                     <li>
                       <Link legacyBehavior href="/blog">
-                        <a>May 20, 2023</a>
+                        <a>May 20, 2024</a>
                       </Link>
                     </li>
                     <li>
@@ -290,7 +290,7 @@ function BlogMasonaryPage() {
                   <ul className="blog-meta">
                     <li>
                       <Link legacyBehavior href="/blog">
-                        <a>May 20, 2023</a>
+                        <a>May 20, 2024</a>
                       </Link>
                     </li>
                     <li>
@@ -374,7 +374,7 @@ function BlogMasonaryPage() {
                   <ul className="blog-meta">
                     <li>
                       <Link legacyBehavior href="/blog">
-                        <a>May 20, 2023</a>
+                        <a>May 20, 2024</a>
                       </Link>
                     </li>
                     <li>
@@ -458,7 +458,7 @@ function BlogMasonaryPage() {
                   <ul className="blog-meta">
                     <li>
                       <Link legacyBehavior href="/blog">
-                        <a>May 20, 2023</a>
+                        <a>May 20, 2024</a>
                       </Link>
                     </li>
                     <li>

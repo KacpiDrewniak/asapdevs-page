@@ -9,7 +9,7 @@ function BlogDetailsPage() {
     <Layout>
       <Breadcrumb
         pageList="BLOG MASONARY"
-        title="Exploring The Softconic Blog"
+        title="Exploring The asapdevs Blog"
         pageName="Blog Masonary"
       />
       <BlogBanner />
@@ -326,7 +326,7 @@ function BlogDetailsPage() {
                           </Link>
                         </h6>
                         <Link legacyBehavior href="/blog">
-                          <a>May 18, 2023</a>
+                          <a>May 18, 2024</a>
                         </Link>
                       </div>
                     </div>
@@ -348,7 +348,7 @@ function BlogDetailsPage() {
                           </Link>
                         </h6>
                         <Link legacyBehavior href="/blog">
-                          <a>May 15, 2023</a>
+                          <a>May 15, 2024</a>
                         </Link>
                       </div>
                     </div>
@@ -370,7 +370,7 @@ function BlogDetailsPage() {
                           </Link>
                         </h6>
                         <Link legacyBehavior href="/blog">
-                          <a>May 14, 2023</a>
+                          <a>May 14, 2024</a>
                         </Link>
                       </div>
                     </div>

@@ -129,7 +129,7 @@ function Footer2() {
         <div className="col-lg-12">
           <div className="footer-btn-content">
             <div className="copyright-area">
-              <p>©Copyright 2023 <a href="#">Softconic</a> | Design By <a href="https://www.egenslab.com/">Egens Lab</a></p>
+              <p>©Copyright 2024 <a href="#">asapdevs</a></p>
             </div>
             <div className="footer-social">
               <ul>

@@ -12,7 +12,7 @@ function Home3Blog() {
           <p>Services are professional offerings provided by businesses to meet specific needs or solve problems for their customers. Services can range from your budject.</p>
         </div>
       </div>
-    </div> 
+    </div>
     <div className="row justify-content-center g-lg-4 gy-5">
       <div className="col-lg-4 col-md-6 wow animate fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
         <div className="single-blog magnetic-item">
@@ -24,7 +24,7 @@ function Home3Blog() {
           </div>
           <div className="blog-content">
             <ul className="blog-meta">
-              <li><Link legacyBehavior href="/blog"><a>May 20, 2023</a></Link></li>
+              <li><Link legacyBehavior href="/blog"><a>May 20, 2024</a></Link></li>
               <li><Link legacyBehavior href="/blog"><a>Comment (3)</a></Link></li>
             </ul>
             <h4><Link legacyBehavior href="/blog-details"><a>Donec finibus laoreet exte eu pellentesque. </a></Link></h4>
@@ -62,7 +62,7 @@ function Home3Blog() {
           </div>
           <div className="blog-content">
             <ul className="blog-meta">
-              <li><Link legacyBehavior href="/blog"><a>May 20, 2023</a></Link></li>
+              <li><Link legacyBehavior href="/blog"><a>May 20, 2024</a></Link></li>
               <li><Link legacyBehavior href="/blog"><a>Comment (3)</a></Link></li>
             </ul>
             <h4><Link legacyBehavior href="/blog-details"><a>feugiat varius mattis mass enim est egestas.</a></Link></h4>
@@ -100,7 +100,7 @@ function Home3Blog() {
           </div>
           <div className="blog-content">
             <ul className="blog-meta">
-              <li><Link legacyBehavior href="/blog"><a>May 20, 2023</a></Link></li>
+              <li><Link legacyBehavior href="/blog"><a>May 20, 2024</a></Link></li>
               <li><Link legacyBehavior href="/blog"><a>Comment (3)</a></Link></li>
             </ul>
             <h4><Link legacyBehavior href="/blog-details"><a>Navigating the Journey off Cloud Solution.</a></Link></h4>

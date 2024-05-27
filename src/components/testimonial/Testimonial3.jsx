@@ -62,7 +62,7 @@ function Testimonial3() {
             </div>
           </div>
         </div>
-      </div>    
+      </div>
       <div className="row">
         <div className="col-lg-12">
           <Swiper {...slider} className="swiper home3-testimonial-slider">
@@ -93,7 +93,7 @@ function Testimonial3() {
                       </div>
                     </div>
                     <div className="review-date-and-time">
-                      <p>May 9, 2023</p> 
+                      <p>May 9, 2024</p>
                       <span>10.30 PM</span>
                     </div>
                   </div>
@@ -134,7 +134,7 @@ function Testimonial3() {
                       </div>
                     </div>
                     <div className="review-date-and-time">
-                      <p>May 9, 2023</p> 
+                      <p>May 9, 2024</p>
                       <span>10.30 PM</span>
                     </div>
                   </div>
@@ -169,7 +169,7 @@ function Testimonial3() {
                       </div>
                     </div>
                     <div className="review-date-and-time">
-                      <p>May 9, 2023</p> 
+                      <p>May 9, 2024</p>
                       <span>10.30 PM</span>
                     </div>
                   </div>
@@ -210,7 +210,7 @@ function Testimonial3() {
                       </div>
                     </div>
                     <div className="review-date-and-time">
-                      <p>May 9, 2023</p> 
+                      <p>May 9, 2024</p>
                       <span>10.30 PM</span>
                     </div>
                   </div>
@@ -222,10 +222,10 @@ function Testimonial3() {
             </div>
           </Swiper>
         </div>
-      </div> 
+      </div>
     </div>
   </div>
-  
+
 
   )
 }

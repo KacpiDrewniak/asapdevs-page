@@ -6348,8 +6348,10 @@ video {
             margin-bottom: 30px;
             position: relative;
             .icon-bg{
-                circle{
-                    display: none;
+                svg {
+                    g {
+                        display: none !important;
+                    }
                 }
                 position: absolute;
                 left: -30px;

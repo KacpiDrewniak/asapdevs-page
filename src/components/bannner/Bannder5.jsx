@@ -27,7 +27,7 @@ function Bannder5() {
   return (
     <div className="banner-area-wrapper">
         <div className="company-name">
-          <h2>Softconic</h2>
+          <h2>asapdevs</h2>
         </div>
         <div className="banner-area">
           <div className="social-area">
@@ -44,7 +44,7 @@ function Bannder5() {
           <div className="banner-content">
             <div className="row">
               <div className="col-lg-5">
-                <p>Integer purus odio, placerat nec rhoncus in, ullamcorper nec doloroei. aptent taciti sociosqu ad litora torquent per conubia nostra, persento  
+                <p>Integer purus odio, placerat nec rhoncus in, ullamcorper nec doloroei. aptent taciti sociosqu ad litora torquent per conubia nostra, persento
                   Donec lacinia placerat felis non aliquam.</p>
                 <div className="view-btn">
                   <Link legacyBehavior  href="/service">

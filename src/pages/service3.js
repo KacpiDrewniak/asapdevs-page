@@ -29,14 +29,7 @@ function Service3Page() {
                       fill="none"
                       xmlns="http://www.w3.org/2000/svg"
                     >
-                      <g opacity="0.7" filter="url(#filter0_f_1886_2042)">
-                        <circle
-                          cx={61}
-                          cy={61}
-                          r={23}
-                          fill="url(#paint0_linear_1886_2042)"
-                        />
-                      </g>
+
                       <defs>
                         <filter
                           id="filter0_f_1886_2042"
@@ -135,14 +128,7 @@ function Service3Page() {
                       fill="none"
                       xmlns="http://www.w3.org/2000/svg"
                     >
-                      <g opacity="0.7" filter="url(#filter0_f_1886_2043)">
-                        <circle
-                          cx={61}
-                          cy={61}
-                          r={23}
-                          fill="url(#paint0_linear_1886_2043)"
-                        />
-                      </g>
+
                       <defs>
                         <filter
                           id="filter0_f_1886_2043"
@@ -246,14 +232,7 @@ function Service3Page() {
                       fill="none"
                       xmlns="http://www.w3.org/2000/svg"
                     >
-                      <g opacity="0.7" filter="url(#filter0_f_1886_2044)">
-                        <circle
-                          cx={61}
-                          cy={61}
-                          r={23}
-                          fill="url(#paint0_linear_1886_2044)"
-                        />
-                      </g>
+
                       <defs>
                         <filter
                           id="filter0_f_1886_2044"
@@ -359,14 +338,7 @@ function Service3Page() {
                       fill="none"
                       xmlns="http://www.w3.org/2000/svg"
                     >
-                      <g opacity="0.7" filter="url(#filter0_f_1886_2045)">
-                        <circle
-                          cx={61}
-                          cy={61}
-                          r={23}
-                          fill="url(#paint0_linear_1886_2045)"
-                        />
-                      </g>
+
                       <defs>
                         <filter
                           id="filter0_f_1886_2045"
@@ -467,14 +439,7 @@ function Service3Page() {
                       fill="none"
                       xmlns="http://www.w3.org/2000/svg"
                     >
-                      <g opacity="0.7" filter="url(#filter0_f_1886_2046)">
-                        <circle
-                          cx={61}
-                          cy={61}
-                          r={23}
-                          fill="url(#paint0_linear_1886_2046)"
-                        />
-                      </g>
+
                       <defs>
                         <filter
                           id="filter0_f_1886_2046"
@@ -573,14 +538,7 @@ function Service3Page() {
                       fill="none"
                       xmlns="http://www.w3.org/2000/svg"
                     >
-                      <g opacity="0.7" filter="url(#filter0_f_1886_2041)">
-                        <circle
-                          cx={61}
-                          cy={61}
-                          r={23}
-                          fill="url(#paint0_linear_1886_2041)"
-                        />
-                      </g>
+
                       <defs>
                         <filter
                           id="filter0_f_1886_2041"

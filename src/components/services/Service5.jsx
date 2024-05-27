@@ -11,7 +11,7 @@ function Service5() {
                 <span>Solutions We Offer</span>
                 <h2>Services &amp; Solutions</h2>
               </div>
-            </div>   
+            </div>
           </div>
           <div className="row g-4 justify-content-center">
             <div className="col-xl-4 col-md-6 col-sm-10  wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
@@ -19,9 +19,7 @@ function Service5() {
                 <div className="icon">
                   <div className="icon-bg">
                     <svg width={122} height={122} viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <g opacity="0.7" filter="url(#filter0_f_1886_2042)">
-                        <circle cx={61} cy={61} r={23} fill="url(#paint0_linear_1886_2042)" />
-                      </g>
+
                       <defs>
                         <filter id="filter0_f_1886_2042" x={0} y={0} width={122} height={122} filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
                           <feFlood floodOpacity={0} result="BackgroundImageFix" />
@@ -62,9 +60,7 @@ function Service5() {
                 <div className="icon">
                   <div className="icon-bg">
                     <svg width={122} height={122} viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <g opacity="0.7" filter="url(#filter0_f_1886_2043)">
-                        <circle cx={61} cy={61} r={23} fill="url(#paint0_linear_1886_2043)" />
-                      </g>
+
                       <defs>
                         <filter id="filter0_f_1886_2043" x={0} y={0} width={122} height={122} filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
                           <feFlood floodOpacity={0} result="BackgroundImageFix" />
@@ -109,9 +105,7 @@ function Service5() {
                 <div className="icon">
                   <div className="icon-bg">
                     <svg width={122} height={122} viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <g opacity="0.7" filter="url(#filter0_f_1886_2044)">
-                        <circle cx={61} cy={61} r={23} fill="url(#paint0_linear_1886_2044)" />
-                      </g>
+
                       <defs>
                         <filter id="filter0_f_1886_2044" x={0} y={0} width={122} height={122} filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
                           <feFlood floodOpacity={0} result="BackgroundImageFix" />
@@ -158,9 +152,7 @@ function Service5() {
                 <div className="icon">
                   <div className="icon-bg">
                     <svg width={122} height={122} viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <g opacity="0.7" filter="url(#filter0_f_1886_2045)">
-                        <circle cx={61} cy={61} r={23} fill="url(#paint0_linear_1886_2045)" />
-                      </g>
+
                       <defs>
                         <filter id="filter0_f_1886_2045" x={0} y={0} width={122} height={122} filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
                           <feFlood floodOpacity={0} result="BackgroundImageFix" />
@@ -202,9 +194,7 @@ function Service5() {
                 <div className="icon">
                   <div className="icon-bg">
                     <svg width={122} height={122} viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <g opacity="0.7" filter="url(#filter0_f_1886_2046)">
-                        <circle cx={61} cy={61} r={23} fill="url(#paint0_linear_1886_2046)" />
-                      </g>
+
                       <defs>
                         <filter id="filter0_f_1886_2046" x={0} y={0} width={122} height={122} filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
                           <feFlood floodOpacity={0} result="BackgroundImageFix" />
@@ -245,9 +235,7 @@ function Service5() {
                 <div className="icon">
                   <div className="icon-bg">
                     <svg width={122} height={122} viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <g opacity="0.7" filter="url(#filter0_f_1886_2041)">
-                        <circle cx={61} cy={61} r={23} fill="url(#paint0_linear_1886_2041)" />
-                      </g>
+
                       <defs>
                         <filter id="filter0_f_1886_2041" x={0} y={0} width={122} height={122} filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
                           <feFlood floodOpacity={0} result="BackgroundImageFix" />

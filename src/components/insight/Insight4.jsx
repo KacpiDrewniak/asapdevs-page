@@ -72,7 +72,7 @@ function Insight4() {
                         </li>
                         <li>
                           <Link legacyBehavior href="/blog">
-                            <a>May 10, 2023</a>
+                            <a>May 10, 2024</a>
                           </Link>
                         </li>
                       </ul>
@@ -135,7 +135,7 @@ function Insight4() {
                         </li>
                         <li>
                           <Link legacyBehavior href="/blog">
-                            <a>May 10, 2023</a>
+                            <a>May 10, 2024</a>
                           </Link>
                         </li>
                       </ul>
@@ -198,7 +198,7 @@ function Insight4() {
                         </li>
                         <li>
                           <Link legacyBehavior href="/blog">
-                            <a>May 03, 2023</a>
+                            <a>May 03, 2024</a>
                           </Link>
                         </li>
                       </ul>
@@ -261,7 +261,7 @@ function Insight4() {
                         </li>
                         <li>
                           <Link legacyBehavior href="/blog">
-                            <a>May 10, 2023</a>
+                            <a>May 10, 2024</a>
                           </Link>
                         </li>
                       </ul>

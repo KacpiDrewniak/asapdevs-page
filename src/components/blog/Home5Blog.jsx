@@ -74,7 +74,7 @@ function Home5Blog() {
                       <div className="single-blog-card">
                         <div className="blog-content">
                           <ul>
-                            <li><Link legacyBehavior href="/blog"><a>April 05, 2023</a></Link></li>
+                            <li><Link legacyBehavior href="/blog"><a>April 05, 2024</a></Link></li>
                             <li><Link legacyBehavior href="/blog"><a>Software Development</a></Link></li>
                           </ul>
                           <h3><Link legacyBehavior href="/blog-details"><a>Vestibulum leo ex posuerea eu lobortis ut.</a></Link></h3>
@@ -89,7 +89,7 @@ function Home5Blog() {
                       <div className="single-blog-card">
                         <div className="blog-content">
                           <ul>
-                            <li><Link legacyBehavior href="/blog"><a>April 05, 2023</a></Link></li>
+                            <li><Link legacyBehavior href="/blog"><a>April 05, 2024</a></Link></li>
                             <li><Link legacyBehavior href="/blog"><a>Cyber Security</a></Link></li>
                           </ul>
                           <h3><Link legacyBehavior href="/blog-details"><a>Duis nec velit vitae justo on dictum rhoncus.</a></Link></h3>
@@ -104,7 +104,7 @@ function Home5Blog() {
                       <div className="single-blog-card">
                         <div className="blog-content">
                           <ul>
-                            <li><Link legacyBehavior href="/blog"><a>April 05, 2023</a></Link></li>
+                            <li><Link legacyBehavior href="/blog"><a>April 05, 2024</a></Link></li>
                             <li><Link legacyBehavior href="/blog"><a>Web Development</a></Link></li>
                           </ul>
                           <h3><Link legacyBehavior href="/blog-details"><a>Integer ac sapien moni Class aptent taciti.</a></Link></h3>
@@ -119,7 +119,7 @@ function Home5Blog() {
                       <div className="single-blog-card">
                         <div className="blog-content">
                           <ul>
-                            <li><Link legacyBehavior href="/blog"><a>April 05, 2023</a></Link></li>
+                            <li><Link legacyBehavior href="/blog"><a>April 05, 2024</a></Link></li>
                             <li><Link legacyBehavior href="/blog"><a>Software Development</a></Link></li>
                           </ul>
                           <h3><Link legacyBehavior href="/blog-details"><a>Vestibulum leo ex posuerea eu lobortis ut.</a></Link></h3>
@@ -134,7 +134,7 @@ function Home5Blog() {
                       <div className="single-blog-card">
                         <div className="blog-content">
                           <ul>
-                            <li><Link legacyBehavior href="/blog"><a>April 05, 2023</a></Link></li>
+                            <li><Link legacyBehavior href="/blog"><a>April 05, 2024</a></Link></li>
                             <li><Link legacyBehavior href="/blog"><a>Software Development</a></Link></li>
                           </ul>
                           <h3><Link legacyBehavior href="/blog-details"><a>Vestibulum leo ex posuerea eu lobortis ut.</a></Link></h3>
