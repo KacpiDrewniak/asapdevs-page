@@ -1,5 +1,5 @@
 /*===========================
-     01.COMMON CSS 
+     01.COMMON CSS
 ===========================*/
 :root {
   --font-saira: "Saira", sans-serif;
@@ -8,7 +8,7 @@
   --black-color2: #1D1D1D;
   --gray-color: #f7f7fd;
   --paragraph-color: #272727;
-  --theme-color: #06D889;
+  --theme-color: #ff4e17;
   --body-color: #eaf1f5;
   --border-color: #232323;
   --black-soft-color: #7e7e7e;
@@ -429,7 +429,7 @@ video {
  preloader start
 =======================================*/
 /*=====================================
-     23. Home page Three css 
+     23. Home page Three css
 ========================================*/
 .header-area2 {
   position: absolute;
