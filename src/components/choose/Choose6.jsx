@@ -33,18 +33,6 @@ function Choose6() {
             <div className="row  g-lg-4 gy-5">
               <div className="col-lg-7">
                 <div className="choose-left-content">
-                  <div className="vectors">
-                    <img
-                      className="choose-vec-top-r"
-                      src="assets/img/home-6/choose-vec-top-r.svg"
-                      alt=""
-                    />
-                    <img
-                      className="choose-vec-btm-l"
-                      src="assets/img/home-6/choose-vec-btm-l.svg"
-                      alt=""
-                    />
-                  </div>
                   <div className="icon">
                     <img src="assets/img/logo.svg" alt="" />
                   </div>
