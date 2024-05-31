@@ -3120,6 +3120,7 @@ video {
                         text-transform: uppercase;
                         color: var(--white-color);
                         margin-bottom: 15px;
+
                         @include xxl-device{
                             font-size: 60px;
                         }

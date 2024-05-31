@@ -1,18 +1,9 @@
 /*===========================
      01.COMMON CSS
 ===========================*/
-:root {
-  --font-saira: "Saira", sans-serif;
-  --white-color: #fff;
-  --black-color: #000;
-  --black-color2: #1D1D1D;
-  --gray-color: #f7f7fd;
-  --paragraph-color: #272727;
-  --theme-color: #ff4e17;
-  --body-color: #eaf1f5;
-  --border-color: #232323;
-  --black-soft-color: #7e7e7e;
-}
+
+
+
 
 @font-face {
   font-family: "Saira";
@@ -3010,9 +3001,12 @@ video {
   font-size: 70px;
   line-height: 1.4;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: var(--white-color);
   margin-bottom: 15px;
+}
+
+.main-container .main-content .banner-area-wrapper .banner-area .banner-title h1 span {
+    color: #FF4E17;
 }
 @media (min-width: 1400px) and (max-width: 1599px) {
   .main-container .main-content .banner-area-wrapper .banner-area .banner-title h1 {

@@ -14,6 +14,7 @@ import useBodyClass from "@/hooks/useBodyClass";
 import Head from "next/head";
 import Link from "next/link";
 import React, { useState } from "react";
+import {useThemeContext} from "@/components/theme/ThemeProvider";
 
 function HomepageThree() {
   const [isMenuOpen, setMenuOpen] = useState(false);
@@ -23,6 +24,8 @@ function HomepageThree() {
   };
 
   useBodyClass("bg-dark-5");
+  const { toggleTheme } = useThemeContext();
+
   return (
     <>
       <Head>
@@ -35,7 +38,11 @@ function HomepageThree() {
       <Sidebar isMenuOpen={isMenuOpen} toggleMenu={toggleMenu} />
       <div className="main-container">
         <div className="sidebar-wrapper">
-          <div className="header-logo">
+          <div
+              className="header-logo"
+              onClick={toggleTheme}
+          >
+
             <Link legacyBehavior href="/">
               <a>
                 <img src="assets/img/sm-logo.svg" alt="" />

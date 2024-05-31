@@ -39,13 +39,13 @@ function Bannder5() {
             </ul>
           </div>
           <div className="banner-title">
-            <h1>Unlock your <br /> <span>Business</span> website.</h1>
+            <h1>We deliver the <span>Software</span> <br /> You need, no more no less<span>.</span></h1>
           </div>
           <div className="banner-content">
             <div className="row">
               <div className="col-lg-5">
-                <p>Integer purus odio, placerat nec rhoncus in, ullamcorper nec doloroei. aptent taciti sociosqu ad litora torquent per conubia nostra, persento
-                  Donec lacinia placerat felis non aliquam.</p>
+                <p>Dostarczamy oprogramowanie dokładnie takie jakie potrzebujesz, bez zbędnych opóźniaczy.
+                </p>
                 <div className="view-btn">
                   <Link legacyBehavior  href="/service">
                     <a className="primary-btn7">
@@ -54,7 +54,7 @@ function Bannder5() {
                         <path d="M0 1H12M12 1V13M12 1L0.5 12" />
                       </svg>
                     </span>
-                    <span className="text">VIEW MORE</span>
+                    <span className="text">Sprawdź proces</span>
                     </a>
                   </Link>
                 </div>

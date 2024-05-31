@@ -8,7 +8,7 @@ function WhatWeDo5() {
         <div className="col-lg-12 d-flex align-items-center justify-content-between flex-wrap gap-2">
           <div className="section-title-5">
             <span>THE PROCESS</span>
-            <h2>What We Do</h2>
+            <h2>Proces działania</h2>
           </div>
           <div className="section-content">
             <p>Morbi interdum pellentesque nunc, luctusongi pretium nulla luctus at Aliquam. </p>
@@ -19,33 +19,52 @@ function WhatWeDo5() {
         <div className="col-lg-4 col-sm-6 wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
           <div className="single-process">
             <div className="sl">
-              <h2>01</h2>
+              <h2>1</h2>
             </div>
             <div className="content">
-              <h3>Research &amp; Discovery</h3>
-              <p>Web development is the process offer than operdol creating otar eros augue, ultricies sedatoni quamot authol websites and web. creatingot otar erosmont augue, ultricies sed.</p>
+              <h3>Analiza</h3>
+              <p>
+                Dogłębnie poznajemy Twoje wymagania i dostarczamy oprogramowanie, które jest idealnie dopasowane do Twoich potrzeb.
+              </p>
             </div>
           </div>
         </div>
         <div className="col-lg-4 col-sm-6 wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
           <div className="single-process">
             <div className="sl">
-              <h2>02</h2>
+              <h2>2</h2>
             </div>
             <div className="content">
-              <h3>Industry Expertise</h3>
-              <p>Web development is the process offer than operdol creating otar eros augue, ultricies sedatoni quamot authol websites and web. creatingot otar erosmont augue, ultricies sed.</p>
+              <h3>Wycena</h3>
+              <p>
+                Przygotowywane są wstępne koncepcje zagospodarowania, specyfikacje i wizja. Na tym etapie podawany jest szacunkowy koszt i czas realizacji.
+              </p>
             </div>
           </div>
         </div>
         <div className="col-lg-4 col-sm-6 wow animate fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
           <div className="single-process">
             <div className="sl">
-              <h2>03</h2>
+              <h2>3</h2>
             </div>
             <div className="content">
-              <h3>Quality Assurance</h3>
-              <p>Web development is the process offer than operdol creating otar eros augue, ultricies sedatoni quamot authol websites and web. creatingot otar erosmont augue, ultricies sed.</p>
+              <h3>Tworzenie</h3>
+              <p>
+                Nasze oprogramowanie tworzymy przy użyciu metodyki zwinnej. Otrzymujemy regularne sprawozdania z naszej pracy. Odbywamy częste spotkania w celu weryfikacji postępów i określenia kierunku rozwoju.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-sm-6 wow animate fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
+          <div className="single-process">
+            <div className="sl">
+              <h2>4</h2>
+            </div>
+            <div className="content">
+              <h3>Deployment & Support</h3>
+              <p>
+                Realizacja. Ale to nie koniec. Stale monitorujemy, wspieramy i rozwijamy nowe funkcje.
+              </p>
             </div>
           </div>
         </div>

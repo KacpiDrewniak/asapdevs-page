@@ -9,7 +9,8 @@ function Service5() {
             <div className="col-lg-12">
               <div className="section-title-5 text-center">
                 <span>Solutions We Offer</span>
-                <h2>Services &amp; Solutions</h2>
+                <h2>Zapewniamy
+                  rozwiązania IT wysokiej jakości</h2>
               </div>
             </div>
           </div>

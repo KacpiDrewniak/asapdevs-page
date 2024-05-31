@@ -12,7 +12,14 @@ function About5() {
               <span>Our Values &amp; Culture</span>
               <h2>Who We Are</h2>
             </div>
-            <p>Morbi interdum pellentesque nunc, luctus pretium nulla luctus at. Aliquam cursus nunc arcu, condimentum efficitur tellus iaculis faucibus. Quisque gravida vel magna quis aliquam. Nam semper posuere risus, a gravida sapien tincidunt ac. Nam ac lacinia arcu.  Aliquam erat volutpat. Curabitur consectetur nisl.</p>
+            <p>
+              Pomagamy
+              firmom
+              tworzyć dedykowane
+              oprogramowanie,
+              dzięki któremu odnoszą
+              sukcesy.
+            </p>
             <ul className="about-featue">
               <li>
                 <svg width={15} height={15} viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg">
@@ -39,7 +46,9 @@ function About5() {
                 Corporate Identity
               </li>
             </ul>
-            <p>Morbi interdum pellentesque nunc, luctus pretium nulla luctus at. Aliquam cursus nunc arcu, condimentum efficitur tellus iaculis faucibus. Quisque gravida vel magna quis aliquam. Nam semper posuere risus.</p>
+            <p>
+              Zadowolenie klienta stawiamy w centrum wszystkiego, co robimy. Robimy to poprzez szybkie dostarczanie praktycznego oprogramowania dostosowanego do potrzeb Twojej firmy.
+            </p>
           </div>
         </div>
         <div className="col-lg-6 wow animate fadeInRight" data-wow-delay="300ms" data-wow-duration="1500ms">
